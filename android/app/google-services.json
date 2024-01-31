@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337270044958",
+    "project_id": "task-list-2b9ec",
+    "storage_bucket": "task-list-2b9ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337270044958:android:2b3b670cb2bfadae2eb10f",
+        "android_client_info": {
+          "package_name": "br.com.tassiogustavo.task_list_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrH2KXSmLtDlfI1Q4DC75V774Fr6VygiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
