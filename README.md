@@ -1,16 +1,6 @@
-# task_list_firebase
+# Lista de tarefas com Firebase
 
-A new Flutter project.
+## 📷Video do Projeto
+https://github.com/tassiogustavo/task_list_firebase/assets/70405308/291c0f10-78fd-48b9-8ceb-c8fc990a8ea2
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bem-vindo ao repositório da Lista de tarefas com Firebase! Este projeto é um aplicativo desenvolvido para estudos da persistencia de dados no Flutter. Neste caso utilizando Firebase Firestore Database, banco de dados NoSQL baseado em coleções.
